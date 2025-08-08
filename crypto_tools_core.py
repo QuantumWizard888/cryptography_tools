@@ -3,7 +3,7 @@ import hashlib
 import secrets
 from argon2 import PasswordHasher
 
-#* crypto_tools_core.py
+#? ### Description ###
 #? File contains cryptographic functions that process API requests data
 
 async def hash_generate_SHA256(input_str: str) -> str:

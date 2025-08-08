@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
-#* schemas.py
+#? ### Description ###
 #? File contains schemas for data validation
 
 class hash_object(BaseModel):

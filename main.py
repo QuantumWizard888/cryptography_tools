@@ -4,7 +4,7 @@ from fastapi import FastAPI, HTTPException
 from schemas import hash_object, rnd_gen_object, enc_dec_object
 from summary_routes import summary_dict
 
-#* main.py
+#? ### Description ###
 #? Main file that runs the application
 
 app = FastAPI(

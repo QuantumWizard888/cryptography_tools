@@ -2,7 +2,7 @@ import asyncio
 import httpx
 from time import perf_counter
 
-#* test_performance_requests.py
+#? ### Description ###
 #? File contains tests for undestanding the application performance (kind of) under different load
 
 # <--- TEST INPUT DATA

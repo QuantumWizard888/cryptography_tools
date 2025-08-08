@@ -1,7 +1,7 @@
 import pytest
 from crypto_tools_core import hash_generate_SHA256, hash_generate_SHA512, hash_generate_argon2, base64_encode, base64_decode
 
-#* test_crypto_tools_core.py
+#? ### Description ###
 #? Unit tests
 
 test_string = "This is some Magic!"
